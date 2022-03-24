@@ -11,6 +11,8 @@ Run the file:
 python3 search_by_keyword.py
 ```
 
+![](https://raw.githubusercontent.com/karvanpy/ScrapingDETIK/main/ScrapingDETIK%20-%20overview.jpg)
+
 ## QnA
 #### Is automatically save the result when finished scraping?
 Yes, directly on current directory
